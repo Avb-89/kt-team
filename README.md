@@ -12,7 +12,8 @@
  │       └───magento2
  ├───PHP
 
-Magento2 запускается с артефактами (не прорисовывает фреймы)
+
+После установки Magento2 запускается с артефактами (не прорисовывает фреймы)
 Нашел как это исправить, но пока не автоматизировал.
 в SQL
 insert into core_config_data (config_id, scope, scope_id, path, value) values (null, 'default', 0, 'dev/static/sign', 0)

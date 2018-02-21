@@ -1,5 +1,5 @@
 # Kt-team
-Структура папок
+Структура
 
 ─dev
 
@@ -11,6 +11,8 @@
 
 │___│_____└───conf.d
 
+|____|______└───nginx.conf
+
 │___├───html
 
 │___├───Logs
@@ -20,6 +22,10 @@
 │________└───magento2
 
 ├───PHP
+
+|____├───Dockerfile
+
+|____└───php.ini
 
 Перед установкой, разархивировать файлы магенты https://magento.com/tech-resources/download в папку Nginx/www/magento2
 

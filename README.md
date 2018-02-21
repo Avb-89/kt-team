@@ -7,17 +7,17 @@
 
 ├───Nginx
 
-│   ├───core
+│___├───core
 
-│   │   └───conf.d
+│___│_____└───conf.d
 
-│   ├───html
+│___├───html
 
-│   ├───Logs
+│___├───Logs
 
-│   └───www
+│___└───www
 
-│       └───magento2
+│________└───magento2
 
 ├───PHP
 

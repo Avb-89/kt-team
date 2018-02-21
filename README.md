@@ -1,3 +1,4 @@
+
 # Kt-team
 Структура
 
@@ -40,5 +41,7 @@ insert into core_config_data (config_id, scope, scope_id, path, value) values (n
 и в PHP
 
 php bin/magento cache:clean config
+
 php bin/magento setup:static-content:deploy
+
 После этого все корректно отображается.

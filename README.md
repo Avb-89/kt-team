@@ -1,4 +1,4 @@
-c
+
 # Kt-team
 Структура
 
@@ -27,6 +27,7 @@ c
 |____├───Dockerfile
 
 |____└───php.ini
+
 │________docker-compose.yml
 
 Перед установкой, разархивировать файлы магенты https://magento.com/tech-resources/download в папку Nginx/www/magento2

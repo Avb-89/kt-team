@@ -1,4 +1,3 @@
-
 # Kt-team
 Структура
 
@@ -31,6 +30,8 @@
 │________docker-compose.yml
 
 Перед установкой, разархивировать файлы магенты https://magento.com/tech-resources/download в папку Nginx/www/magento2
+
+Не забудьте удалить файлы "deleteme"
 
 
 После установки Magento2 запускается с артефактами (не прорисовывает фреймы)
